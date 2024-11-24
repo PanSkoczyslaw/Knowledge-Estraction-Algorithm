@@ -1,0 +1,70 @@
+{
+  "lp": {
+    "facts": [],
+    "assumptions": [],
+    "clauses": [
+      {
+        "tag": "Cl",
+        "clHead": {
+          "idx": 1,
+          "label": ""
+        },
+        "clPAtoms": [
+          {
+            "idx": 2,
+            "label": ""
+          },
+          {
+            "idx": 3,
+            "label": ""
+          }
+        ],
+        "clNAtoms": []
+      },
+      {
+        "tag": "Cl",
+        "clHead": {
+          "idx": 2,
+          "label": ""
+        },
+        "clPAtoms": [],
+        "clNAtoms": []
+      },
+      {
+        "tag": "Cl",
+        "clHead": {
+          "idx": 3,
+          "label": ""
+        },
+        "clPAtoms": [],
+        "clNAtoms": []
+      },
+      {
+        "tag": "Cl",
+        "clHead": {
+          "idx": 4,
+          "label": ""
+        },
+        "clPAtoms": [],
+        "clNAtoms": []
+      }
+    ]
+  },
+  "abductive_goal": {
+    "tag": "Cl",
+    "clHead": {
+      "idx": 6,
+      "label": ""
+    },
+    "clPAtoms": [],
+    "clNAtoms": []
+  },
+  "factors": {
+    "beta": 1.0,
+    "ahln": 1.0,
+    "r": 0.005,
+    "bias": 0.0,
+    "w": 0.1,
+    "amin": 0.1
+  }
+}
