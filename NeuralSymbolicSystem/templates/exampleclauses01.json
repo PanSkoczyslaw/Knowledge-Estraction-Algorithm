@@ -1,0 +1,48 @@
+[
+      {
+        "tag": "Cl",
+        "clHead": {
+          "idx": 1,
+          "label": ""
+        },
+        "clPAtoms": [
+          {
+            "idx": 2,
+            "label": ""
+          },
+          {
+            "idx": 3,
+            "label": ""
+          }
+        ],
+        "clNAtoms": []
+      },
+      {
+        "tag": "Cl",
+        "clHead": {
+          "idx": 2,
+          "label": ""
+        },
+        "clPAtoms": [
+          {
+            "idx": 3,
+            "label": ""
+          }
+        ],
+        "clNAtoms": []
+      },
+      {
+        "tag": "Cl",
+        "clHead": {
+          "idx": 2,
+          "label": ""
+        },
+        "clPAtoms": [
+          {
+            "idx": 1,
+            "label": ""
+          }
+        ],
+        "clNAtoms": []
+      }
+    ]
